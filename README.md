@@ -27,7 +27,7 @@ This is my first Python mini project — a simple command-line calculator.
 📌 Note
 
 - This is the basic version
-- Advanced version (with error handling) will be added soon
+- Advanced version (with error handling , loop, and validation)
 
 👨‍💻 Author
 
